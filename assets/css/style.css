@@ -31,6 +31,7 @@ h1 {
 	color: #828180;
 	padding-bottom: 2px;
 	font-family: "Gill Sans", light;
+	box-shadow: 5px 5px 20px 5px #f2f7ff;
 }
 
 nav{
@@ -65,23 +66,39 @@ aside {
 	width: 100%;
 	text-align: center;
 	background-color: #FFDFF7;
-	opacity: 0.5;
 	padding-bottom: 105px;
+	position: fixed;
+	bottom: -49px;
+}
+
+#contactInfo {
+	margin: 75px auto;
+	box-shadow: 5px 5px 20px 5px #f2f7ff;
+	text-align: center;
+	font-family: "Gill Sans", light;
+	background: white;
+	width: 300px;
+	height: 371px;
+	padding: auto;
+	overflow: visible;
 }
 
 #contactList {
-	display: inline;;
-	width: 750px;
-	height: auto;
-	margin: 50px auto;
-	box-shadow: 5px 5px 3px #eaeaea;
-	clear: both;
-	border-radius: 14px;
+	padding: auto;
+	font-color: #a383aa;
+	letter-spacing: 3px;
+}
+
+#portfolio {
+	margin: 75px auto;
+	box-shadow: 5px 5px 20px 5px #f2f7ff;
 	text-align: center;
 	font-family: "Gill Sans", light;
-	font-color: #828180;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	background: white;
+	width: 300px;
+	height: 371px;
+	padding: auto;
+	overflow: visible;
 }
 
 .socialMedLogo {
@@ -89,14 +106,122 @@ aside {
 	height: auto;
 }
 
+#portText {
+	margin: auto;
+	padding-top: 10px;
+}
 
+#email1 {
+	position: relative;
+	left: -10px;
+}
 
+#email2 {
+	position: relative;
+	left: -9px;
+}
 
+#email2 {
+	position: relative;
+	left: -9px;
+}
 
+#email3 {
+	position: relative;
+	left: -8px;
+}
 
+#email4 {
+	position: relative;
+	left: -7px;
+}
 
+#email5 {
+	position: relative;
+	left: -6px;
+}
 
+#email6 {
+	position: relative;
+	left: -5px;
+}
 
+#email7 {
+	position: relative;
+	left: -4px;
+}
 
+#email8 {
+	position: relative;
+	left: -3px;
+}
 
+#email9 {
+	position: relative;
+	left: -2px;
+}
 
+#email10 {
+	position: relative;
+	left: -1px;
+}
+
+#email11 {
+	position: relative;
+	
+}
+
+#email12 {
+	position: relative;
+	left: 1px;
+}
+
+#email13 {
+	position: relative;
+	left: 2px;
+}
+
+#email14 {
+	position: relative;
+	left: 3px;
+}
+
+#email15 {
+	position: relative;
+	left: 4px;
+}
+
+#email16 {
+	position: relative;
+	left: 5px;
+}
+
+#email17 {
+	position: relative;
+	left: 6px;
+}
+
+#email18 {
+	position: relative;
+	left: 7px;
+}
+
+#email19 {
+	position: relative;
+	left: 8px;
+}
+
+#email20 {
+	position: relative;
+	left: 9px;
+}
+
+#email21 {
+	position: relative;
+	left: 10px;
+}
+
+#email22 {
+	position: relative;
+	left: 11px;
+}
